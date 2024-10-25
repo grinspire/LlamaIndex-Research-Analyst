@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+llama-index
+langchain
+nest_asyncio
+IPython
+sentence_transformers
+torch
+pypdf
